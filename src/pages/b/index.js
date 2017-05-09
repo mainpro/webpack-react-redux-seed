@@ -4,7 +4,6 @@ import './index.scss';
 
 class B extends Component {
   render() {
-    debugger
     return (
       <div className="page2"> Page2 </div>
     );

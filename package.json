@@ -1,5 +1,5 @@
 {
-  "name": "webpack-react-redux-es6-boilerplate",
+  "name": "webpack-react-redux-seed",
   "version": "1.0.0",
   "description": "使用 webpact + react + redux + es6 的组件化前端样板项目。",
   "directories": {
@@ -21,8 +21,7 @@
     "react",
     "es6",
     "babel",
-    "redux",
-    "boilerplate"
+    "redux"
   ],
   "author": "mainpro",
   "license": "MIT",

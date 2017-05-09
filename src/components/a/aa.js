@@ -5,9 +5,6 @@ import React, { Component ,PropTypes} from 'react';
 
 
 class AA extends Component {
-    constructor(props){
-        super(props)
-    }
     /*
     * method 增加的方法
     * */

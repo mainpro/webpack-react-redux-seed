@@ -7,9 +7,6 @@ import './index.scss';
 import AA from 'components/a'
 
 class A extends Component {
-    constructor(props) {
-        super(props);
-    }
     render() {
         const {state,aAdd,aReduce} = this.props;
         return (
